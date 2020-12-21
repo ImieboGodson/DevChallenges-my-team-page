@@ -13,7 +13,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/solutions/d7X4K4crfQMozONNdB9w">
+    <a href="https://devchallenges.io/solutions/Cu7oBe698RXgeZcNkwjh">
       Solution
     </a>
     <span> | </span>
@@ -37,10 +37,11 @@
 
 ## Overview
 
-<!-- ![screenshot](https://github.com/ImieboGodson/404-page/blob/master/resources/images/screenshot.png) -->
+
+
 This project was fun to build, I tried to keep my code as minimal as possible and easy to read for anyone who wants to have a look to gain insight 0f some sort. I really enjoyed the experience, I learnt to use the 'writing-mode' property in CSS to structure the vertical text next to the pictures, my first time using that. I used CSS Grid in structuring my layout making it as responsive as possible without so much altering with media queries.
 
-You can checkout the [demo](https://my-team-page1.netlify.app/)
+You can checkout the [demo](https://my-team-page1.netlify.app/).
 
 ### Built With
 
